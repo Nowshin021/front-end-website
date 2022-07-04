@@ -11,27 +11,6 @@ Learn Git and GitHub without any code!
 Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
 
 
-WebCifar
-/
-one-page-website-html-css-project-for-practice
-13
-195228
-Code
-Issues
-Pull requests
-15
-Actions
-Projects
-Wiki
-Security
-Insights
-one-page-website-html-css-project-for-practice/style.css
-@ShaifArfan
-ShaifArfan Update style.css
-Latest commit 274dc2a on Jun 2, 2020
- History
- 1 contributor
-701 lines (683 sloc)  12.8 KB
   
 @import 'https://fonts.googleapis.com/css?family=Montserrat:300, 400, 700&display=swap';
 * {
